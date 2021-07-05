@@ -145,6 +145,6 @@ MESSAGE_TAGS = {
 # SMTP CONFIGURATION
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "user your admin email address"
+EMAIL_HOST_USER = "type you email"
 EMAIL_HOST_PASSWORD = 'email password'
 EMAIL_USE_TLS = True
